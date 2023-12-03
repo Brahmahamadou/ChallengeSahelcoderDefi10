@@ -1,0 +1,66 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.contaianer-fluide{
+    display: flex;
+}
+.contenant{
+    background-color: #aea4a4;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    margin-left: 1rem;
+}
+.con{
+    background-color: rgb(182, 67, 67);
+}
+.cercle{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgb(202, 76, 91);
+    transform: translate(50%, -50%);
+   
+}
+img{
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+.contenant2{
+    color: antiquewhite;
+}
+.contenant2 h3{ 
+    margin-top: -4rem;
+    text-align: center;
+}
+.contenant2 p{
+    text-align: center;
+}
+.full{
+    margin-top: -1rem;
+}
+.point{
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    margin-top: 3rem;    
+}
+.point1{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #aea4a4;
+    margin-left: 25px;
+}
+.point .con{
+    background-color: rgb(182, 67, 67);
+}
